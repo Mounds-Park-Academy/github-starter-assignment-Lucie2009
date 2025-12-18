@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Types of Paint</title>
+</head>
+<body>
+
+<h1 style="font-size:250%;color:darkblue;"> Oil Paint Vs Water Based Paint: Which is Better for Your Painting?</h1> 
+<tagname style="property:value;">
+
+<p style="font-size:180%;color: Blue"> Oil Paint </p> Each thing is seperated to start a new line, I set the font size to a little bigger than the paragraph, Made blue
+
+<p style="font-size:160%;color: Green"> Pros: It provides a smooth surface on the canvas you paint on. Once dried, the paint is very durable, as well as sticks to surfaces well. </p> I set the font size and what I wanted it to say (same with other pro and con part with the Water Base paint)
+
+<p style="font-size:160%;color: Red"> Cons: It requires harsh chemicals in order to clean this paint off of things. It takes a long timr to dry fully and, overtime, oil paintings get a yellow tint to them. </p> font-size
+<p style="font-size:180%;color: Blue">Water Based Paint </p>
+<p style="font-size:160%;color: Green">Pros: This paint is easy to clean up and does not require any harsh chemicals like oil paint.It dries fast and does not crack or get a yellowish tint with time.</p>
+<p style="font-size:160%;color: Green">Cons: This paint is not durable and does not always leave a smooth suface.It can become bumpy or scratched. </p>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+</html>
